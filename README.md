@@ -16,6 +16,3 @@ That's it! Now you can run the notebook `CEI_logo_playground.ipynb` and start ge
 
 * :file_folder: **stl/** contains the geometry of the cavity and the letters for the logo
 * :file_folder: **img/** contains some example images you can generate. Your simulation results will be generated there
-
-## Example
-![gif-logo](CEI_logo.gif)
