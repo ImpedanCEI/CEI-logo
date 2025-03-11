@@ -4,8 +4,7 @@
 ## Getting started
 You can install wakis from GitHub to have the latest changes into your conda environment:
 ```bash
-git clone https://github.com/ImpedanCEI/wakis.git
-pip install -e wakis
+pip install wakis['notebook']
 ```
 or 
 ```
