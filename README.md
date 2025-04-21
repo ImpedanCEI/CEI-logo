@@ -4,6 +4,7 @@ What started as an example of Wakis flexible 2d and 3d plotting capabilities (to
 * [`IDDEFIX`](https://github.com/ImpedanCEI/IDDEFIX) for partially decayed wake extrapolation,
 * [`BIHC`](https://github.com/ImpedanCEI/BIHC) for impedance-induced beam power loss, and
 * [`neffint`](https://github.com/ImpedanCEI/neffint) for impedance to wake function conversion for beam dynamics simulations.
+
 This repository contains **python notebooks 001-005** that provide a **comprehensive and fun playground** on wakefield and impedance related calculations.
 
 ## Getting started
