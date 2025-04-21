@@ -1,5 +1,5 @@
 # CEI logo
-> What started as a fun example of Wakis flexible 2d and 3d plotting capabilities (to update the CERN-ABP-CEI section logo), turned out to be the perfect example to follow the full impedance assessment workflow using our in-house tools: `Wakis`, `BIHC`, `Iddefix` and `neffint`. This repository contains python notebooks 001-005 that provide a comprehensive and hands-on playground on wakefield and impedance related calculations.
+> What started as an example of Wakis flexible 2d and 3d plotting capabilities (to update the CERN-ABP-CEI section logo), turned out to be the perfect **hands-on example to follow the full impedance assessment workflow** using our in-house tools: `Wakis` for the 3D electromagnetic wakefield simulations, `Iddefix` for partially decayed wake extrapolation, `BIHC` for impedance-induced beam power loss, and `neffint` for impedance to wake function conversion for beam dynamics simulations. This repository contains **python notebooks `001-005`** that provide a **comprehensive and fun playground** on wakefield and impedance related calculations.
 
 ## Getting started
 You can install wakis from GitHub to have the latest changes into your conda environment:
