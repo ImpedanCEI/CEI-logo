@@ -1,5 +1,5 @@
 # CEI logo
-What started as an example of Wakis flexible 2d and 3d plotting capabilities (to update the CERN-ABP-CEI section logo), turned out to be the perfect **hands-on example to follow the full impedance assessment workflow** using our in-house tools: 
+What started as an example of Wakis flexible 2d and 3d plotting capabilities (to update the CERN-ABP-CEI section logo), turned out to be the perfect **hands-on example to follow the full impedance assessment workflow** using our in-house python packages: 
 * [`Wakis`](https://github.com/ImpedanCEI/wakis) for the 3D electromagnetic wakefield simulations,
 * [`IDDEFIX`](https://github.com/ImpedanCEI/IDDEFIX) for partially decayed wake extrapolation,
 * [`BIHC`](https://github.com/ImpedanCEI/BIHC) for impedance-induced beam power loss, and
